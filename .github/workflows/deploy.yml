@@ -2,7 +2,7 @@ name: GitHub CI/CD 自动部署
 
 on:
   push:
-    branches: [ main ]  # 推送到 main 分支自动触发
+    branches: [ master ]  # 推送到 main 分支自动触发
 
 jobs:
   build-and-deploy:
