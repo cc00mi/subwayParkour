@@ -4,11 +4,11 @@
 
 ## 在线游玩
 
-直接打开 [`subway-rush.html`](./subway-rush.html) 即可在浏览器中运行。
+直接打开 [`index.html`](./index.html) 即可在浏览器中运行。
 
 或访问 GitHub Pages（需在仓库 Settings 中开启 Pages）：
 ```
-https://fulloon1020.github.io/subwayParkour/subway-rush.html
+https://cc00mi.github.io/subwayParkour/
 ```
 
 ## 操作方式
