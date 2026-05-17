@@ -2,14 +2,8 @@
 
 一款纯前端**地铁跑酷风格**单机小游戏，使用 HTML + Canvas + JavaScript 实现，无任何外部依赖。
 
-## 在线游玩
+## [在线游玩](https://cc00mi.github.io/subwayParkour/)
 
-直接打开 [`index.html`](./index.html) 即可在浏览器中运行。
-
-或访问 GitHub Pages（需在仓库 Settings 中开启 Pages）：
-```
-https://cc00mi.github.io/subwayParkour/
-```
 
 ## 操作方式
 
